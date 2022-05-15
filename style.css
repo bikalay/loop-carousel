@@ -1,0 +1,16 @@
+.loop-carousel {
+    width: 100%;
+    overflow-x: scroll;
+    cursor: grab;
+}
+.loop-carousel-wrapper {
+    display: inline-flex;
+
+}
+
+.loop-carousel-item {
+    width: 200px;
+    height: 100px;
+    margin-right: 10px;
+    background-color: red;
+}
